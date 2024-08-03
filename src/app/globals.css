@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-top: 0 !important;
+}
+
+h4 {
+    font-weight: bold;
+}
