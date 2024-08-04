@@ -74,7 +74,7 @@ Prevents some well known web vulnerabilities by setting HTTP headers appropriate
 - Don't use synchronous functions like console.log
 - Handle exceptions properly
   - Node app crashes from uncaught exception
-  - use try\*catch and promises
+  - use try-catch and promises
   - next() function propagates errors through the middleware chain
 - Set node env to production
 - Ensure app auto restarts on failure, if all exceptions properly handled the app should not crash however as a fail safe this should be added.
