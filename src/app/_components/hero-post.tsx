@@ -3,6 +3,7 @@ import CoverImage from "@/app/_components/cover-image";
 import { type Author } from "@/interfaces/author";
 import Link from "next/link";
 import DateFormatter from "./date-formatter";
+import { PostMetadata } from "./post-metadata";
 
 type Props = {
   title: string;
@@ -34,7 +35,7 @@ export function HeroPost({
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
+            <PostMetadata slug={slug} date={date} />
           </div>
         </div>
         <div>
