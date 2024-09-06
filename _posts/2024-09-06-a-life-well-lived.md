@@ -2,7 +2,7 @@
 title: "A life well lived - Warren Buffet"
 excerpt: "The Snowball is a book written by Alice Schroeder who worked in the finance industry, it provides a candid and objective glimpse of Warren’s life chronologically from childhood until the 2008 financial crash. It uses the analogy of rolling a snowball for Warren as he goes through life, readers would initially assume the snowball refers to his net worth but it is much more than money and includes his relationships and experiences he acquired through life. The book is easy to read because it feels like you are right there throughout his life at all his major life events such as when his father became Congressmen, his marriage with Susie, when his father died and many more major events."
 coverImage: "/assets/warren.jpg"
-date: "2024-19-06T05:35:07.322Z"
+date: "2024-09-06T05:35:07.322Z"
 author:
   name: David Yu
   bio: I love to code
