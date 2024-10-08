@@ -1,14 +1,14 @@
 ---
 title: "Australian software company tier list"
 excerpt: "This is purely educational to help people decide on their next job and an over simplification of reality, factors such as the roadmap, projects and team are far more important. If you care about what looks shiny on your resume and what you deserve to be paid then this might help."
-coverImage: "/assets/career.png"
+coverImage: "/assets/career.jpeg"
 date: "2024-10-07T05:35:07.322Z"
 author:
   name: David Yu
   bio: I love to code
   picture: /assets/blog/authors/davidthrone.jpg
 ogImage:
-  url: "/assets/career.png"
+  url: "/assets/career.jpeg"
 tags:
   - career
   - software
