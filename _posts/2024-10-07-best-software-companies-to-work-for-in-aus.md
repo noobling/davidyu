@@ -84,7 +84,7 @@ Tier 5
 
 ## How did I come up with this
 
-Mainly based on personal conversations I have had with others where they describe their experience working in a given company and why they left. For example moving to Atlassian is almost always a compensation reason and leaving Atlassian is almost always a cultural issue. Also asked my peers for feedback on the list as well so its not completely biased. Reputation is also something difficult to measure, e.g. AWS is a leader in software development (most companies use their SDKs and compute) but they are infamous for their PIP.
+Mainly based on personal conversations I have had with others where they describe their experience working in a given company and why they left. Also asked my peers for feedback on the list as well so its not completely biased. Reputation is also something difficult to measure, e.g. AWS is a leader in software development (most companies use their SDKs and compute) but they are infamous for their PIP.
 
 ## Other factors to consider
 
