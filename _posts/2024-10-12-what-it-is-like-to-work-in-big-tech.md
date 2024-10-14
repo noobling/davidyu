@@ -1,14 +1,15 @@
 ---
 title: "What it is like to work in big tech"
-excerpt: ""
-coverImage: "/assets/career.jpeg"
-date: "2024-10-07T05:35:07.322Z"
+excerpt: "Are programmers different in big tech?
+This was a question I always wondered before I joined. I thought they must have something special to join because the interviews are so tough and they get paid so much more. After spending a lot of time from junior to senior principal engineers I can say there isn't a lot different. I wouldn't say they have substantially higher IQ or anything like that but I do observe two key differences"
+coverImage: "/assets/ai.webp"
+date: "2024-10-12T05:35:07.322Z"
 author:
   name: David Yu
   bio: Software Engineer, wannabe Entrepreneur
   picture: /assets/blog/authors/davidthrone.jpg
 ogImage:
-  url: "/assets/career.jpeg"
+  url: "/assets/ai.webp"
 tags:
   - career
   - software
@@ -37,6 +38,12 @@ It is its size, I don't think humans were designed to work with a large number o
 Things can get hostile and counter productive, teams tend to push away work from other teams unless their manager tells them this will look good their performance report. This makes it difficult to work with anyone else besides your immediate team. There is also a lot of confusion about everything for example what is good and not good for your performance report? What are the current priorities for my team? What team is responsible for what? Even though some leader might of clearly explained it at some point it is easy to miss this when their are thousands of people and so myths start to arise on what is important, for example people might start thinking making a lot of pull requests would be good but actually the person who judges your performance views it as a red flag when there are too many pull requests.
 
 So paradoxically despite all the innovation that comes out of large companies there is also and incredible amount of wastage of talent and I think that is what drives people out.
+
+## How will AI impact big tech
+
+AI is changing the way we program rapidly, it will replace people who are overly specialised such as React programmers. It is making it easier for people to write React code and we are already seeing less jobs in that area. I think AI will not replace many bigtech jobs because the main challenges are usually a lot more complex. They either involve a deep understanding of the business domain which can be vast because of the number of people that have worked on it, think about how many features Jira offers or deep technical problems like trying move big data around while satisfying data residency and adding fault tolerance. I am not saying AI won't replace their jobs one day but it will replace people making simple web apps first. Today an AI programming still struggles to parse all the relevant context and output high quality code that an experienced engineer would write. This could be due to the fact that most code it is trained on is open source or simple apps so it lacks the depth, and remains a great autocomplete tool.
+
+Another important point is that in big tech we don't always spend a lot of time coding. Far more time is spent understanding the context and figuring out what the problem is and how to solve it within the sprawling code base written by thousands of engineers and thousands of services that interact with one another. A simple task like trying to debug an error in your service can quickly turn into a multi hour hair pulling endeavour trying to dig through the code of an unfamiliar service because it is returning an unexpected status code.
 
 ## Conclusion
 
