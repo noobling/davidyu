@@ -1,7 +1,6 @@
 ---
 title: "What it is like to work in big tech"
-excerpt: "Are programmers different in big tech?
-This was a question I always wondered before I joined. I thought they must have something special to join because the interviews are so tough and they get paid so much more. After spending a lot of time from junior to senior principal engineers I can say there isn't a lot different. I wouldn't say they have substantially higher IQ or anything like that but I do observe two key differences"
+excerpt: "Are programmers different in big tech? This was a question I always wondered before I joined. I thought they must have something special to join because the interviews are so tough and they get paid so much more. After spending a lot of time from junior to senior principal engineers I can say there isn't a lot different. I wouldn't say they have substantially higher IQ or anything like that but I do observe two key differences"
 coverImage: "/assets/ai.webp"
 date: "2024-10-12T05:35:07.322Z"
 author:
