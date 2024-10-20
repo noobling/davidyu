@@ -2,7 +2,7 @@
 title: "Software rituals"
 excerpt: "Rituals are regular meetings held by the team, usually run by engineers but most of them can be run by anyone. They are best kept short and focused with a small group of people no greater than 5 because we want maximum participation. There is a fine balance between being professional and spending too much time in meetings. I find most participants dread meetings and find it a chore because it requires effort."
 coverImage: "/assets/rituals.webp"
-date: "2024-10-12T05:35:07.322Z"
+date: "2024-10-18T05:35:07.322Z"
 author:
   name: David Yu
   bio: Software Engineer, wannabe Entrepreneur
