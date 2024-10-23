@@ -78,3 +78,7 @@ People usually have a thousand of the same questions so holding a regular meetin
 ### Townhalls
 
 This is a regular meeting to go over the business and what are the key things happening. It can be very broad but usually it goes over the financials, key product launches and key changes. This keeps everyone informed and a chance to inspire everyone to do the right thing. They can set the high level goals and values that individuals can bring into their work. For example they see AI as a key part of the business and encourages everyone to investigate how they can incorporate AI into their work or what AI products can be built.
+
+### Top of mind
+
+You can view them as townhalls but the key difference is there is less structure and preparation for it. This can be at any senior level not just from executives like architects. This provides a glimpse at the hard problems being tackled at this level. It could be something as specific as solving an issue for a key customer or as broad as cutting costs in cloud spending. This like most meetings helps set the vision and provide ideas for lower levels to pursue.
