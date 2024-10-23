@@ -1,6 +1,6 @@
 ---
 title: "Look into database providers"
-excerpt: ""
+excerpt: "Excel powers businesses, databases power software, technically everything is just a giant table. Arguably the most important part of your service is the data, it is what makes it unique. The code can easily be copied, replaced, deleted but you can't do that with data. The greatest disaster for any company's IT team would be data loss not when their services go down"
 coverImage: "/assets/databases.webp"
 date: "2024-10-23T05:35:07.322Z"
 author:
