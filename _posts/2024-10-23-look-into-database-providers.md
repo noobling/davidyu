@@ -1,18 +1,19 @@
 ---
 title: "Look into database providers"
 excerpt: ""
-coverImage: "/assets/rituals.webp"
+coverImage: "/assets/databases.webp"
 date: "2024-10-23T05:35:07.322Z"
 author:
   name: David Yu
   bio: Software Engineer, wannabe Entrepreneur
   picture: /assets/blog/authors/davidthrone.jpg
 ogImage:
-  url: "/assets/rituals.webp"
+  url: "/assets/databases.webp"
 tags:
-  - career
+  - databases
   - software
-  - rituals
+  - BaaS
+  - SaaS
 ---
 
 ## Database background
@@ -25,11 +26,11 @@ Excel powers businesses, databases power software, technically everything is jus
 
 ## Options
 
-| Provider    | Storage (GB) | Pros                                           | Cons                          |
-| ----------- | ------------ | ---------------------------------------------- | ----------------------------- |
-| Supbabase   | 500MB        | No need for SQL queries, Builtin auth, popular |                               |
-| PlanetScale |              | Branching                                      | No free tier                  |
-| Railway     |              |                                                | Focused on hosting entire app |
+| Provider    | Storage (GB) | Pros                                           | Cons                               |
+| ----------- | ------------ | ---------------------------------------------- | ---------------------------------- |
+| Supbabase   | 500MB        | No need for SQL queries, Builtin auth, popular |                                    |
+| PlanetScale |              | Branching                                      | No free tier                       |
+| Railway     |              |                                                | Focused on hosting entire app      |
 | TiDB        | 25GB         | Most storage                                   |
-| Neon DB     | 500MB        | Serverless, branching, Point in time recovery  | Less popular                  |
-| MongoDB     | 500MB        | NoSQL, Flexible - no schema                    | Paid tiers get expensive      |
+| Neon DB     | 500MB        | Serverless, branching, Point in time recovery  | Less popular, no UI to edit tables |
+| MongoDB     | 500MB        | NoSQL, Flexible - no schema                    | Paid tiers get expensive           |
