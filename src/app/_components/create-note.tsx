@@ -1,8 +1,9 @@
 import { createNote } from "@/lib/supabaseApi";
 import { redirect } from "next/navigation";
 
+import FormButton from "./form-button";
 export default function CreateNote() {
-  const handleSubmit = async (formData: FormData) => {
+  const submitNote = async (formData: FormData) => {
     "use server";
     const content = formData.get("content");
     try {
@@ -16,17 +17,16 @@ export default function CreateNote() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
-      <form action={handleSubmit} className="flex flex-col gap-4">
+    <div className="flex flex-col items-center justify-center">
+      <form action={submitNote} className="flex flex-col gap-4">
         <textarea
           name="content"
           placeholder="Content"
           className="border-2 border-gray-300 rounded-md p-2 w-96"
+          rows={8}
           required
         />
-        <button className="bg-blue-500 text-white p-2 rounded-md" type="submit">
-          Create Note
-        </button>
+        <FormButton>Create Note</FormButton>
       </form>
     </div>
   );
